@@ -51,7 +51,7 @@ public class Equation_Q {
 	private static int seriesComp(int b, int j) {
 		// power Caller validation
 		if (j > 0) {
-			System.out.println("PowerCa ller");
+			System.out.println("Power Ca ller");
 			return powerOf2(j) * b;
 			
 		} else
