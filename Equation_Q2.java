@@ -21,6 +21,7 @@ public class Equation_Q {
 		int n = 10;
 		/*
 		 * loopings  n times
+		 * looping n times  believe it .
 		 */
 
 		int[] wholeComp;
