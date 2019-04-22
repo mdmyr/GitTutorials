@@ -20,7 +20,7 @@ public class Equation_Q {
 		int b = 2;
 		int n = 10;
 		/*
-		 * looping n times
+		 * looping n times  believe it .
 		 */
 
 		int[] wholeComp;
