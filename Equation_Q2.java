@@ -20,7 +20,7 @@ public class Equation_Q {
 		int b = 2;
 		int n = 10;
 		/*
-		 * looping n times
+		 * loopings  n times
 		 */
 
 		int[] wholeComp;
@@ -51,7 +51,7 @@ public class Equation_Q {
 	private static int seriesComp(int b, int j) {
 		// power Caller validation
 		if (j > 0) {
-			System.out.println("Power Ca ller");
+			System.out.println("Power  Ca ller Printer");
 			return powerOf2(j) * b;
 			
 		} else
