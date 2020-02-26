@@ -1,6 +1,6 @@
 Version 1 : Created.
 Created the intitial release for the commit.
 
-
+Updated with new features.
 Second version needed for the updated 
 but creating as a branch.
