@@ -1,1 +1,2 @@
 Version 1 : Created.
+Created the intitial release for the commit.
